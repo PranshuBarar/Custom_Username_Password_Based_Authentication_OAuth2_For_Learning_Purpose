@@ -1,1 +1,1 @@
-![This is how Authentication works in Spring Security](Internal working of Spring Security.jpg)
+![This is how Authentication works in Spring Security](internal_working.jpg)
